@@ -3,19 +3,21 @@
 </p>
 
 <p align="center">
-  <strong>I build scalable backend systems and AI-powered products.</strong><br>
-  Python, AWS, and agentic architectures in production.
+  <strong>I design and ship scalable, production-grade systems on AWS.</strong><br>
+  Backend, agentic AI workflows, and a custom agent harness for AI-augmented dev.
 </p>
+
+<p align="center">📍 Lambaré, Paraguay · remote-friendly</p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building **backend systems** and **AI-powered products** (LLMs + Agents).
-- ☁️ Specialized in **AWS**, scalable architectures, deployment, and DevOps practices.
-- 🤖 Building production systems with **LLMs** and agentic workflows (LangGraph + LangChain).
-- 📚 Continuous learner — I document what I build and share what I learn.
-- 🎬 Outside of coding: music, cinema, sports, philosophy, and psychology.
+- 🔭 Owning systems end-to-end — data model → AWS infra → observability → on-call.
+- ☁️ AWS-native infrastructure with Terraform — production from day one.
+- 🤖 **Agentic AI workflows** in production: LangGraph state machines, evals, cost discipline.
+- ⚙️ AI-augmented dev — custom agent harness on Claude Code (sub-agents, hooks, MCP, skills).
+- 🎬 Outside coding: music · philosophy · psychology.
 
 ---
 
@@ -81,13 +83,15 @@
 ### 📫 Let's Connect
 
 <p align="center">
+  <a href="https://francocazal.com"><img src="https://img.shields.io/badge/Website-francocazal.com-0d1117?style=for-the-badge&logo=safari&logoColor=white" /></a>
   <a href="https://github.com/FrancoCazal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/franco-cazal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:francocazal02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:contact@francocazal.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  Looking to collaborate on backend/cloud infrastructure or LLM/agent systems. DM open. 🚀
+  Open to work — remote friendly.<br>
+  <strong><a href="https://francocazal.com">francocazal.com</a></strong> · DM open.
 </p>
