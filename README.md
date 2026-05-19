@@ -9,6 +9,12 @@
 
 <p align="center">📍 Lambaré, Paraguay · remote-friendly</p>
 
+<p align="center">
+  <a href="https://francocazal.com">
+    <img src="https://img.shields.io/badge/Visit_my_Portfolio-francocazal.com-58A6FF?style=for-the-badge&labelColor=0d1117" alt="francocazal.com" />
+  </a>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -87,11 +93,4 @@
   <a href="https://github.com/FrancoCazal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/franco-cazal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:contact@francocazal.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  Open to work — remote friendly.<br>
-  <strong><a href="https://francocazal.com">francocazal.com</a></strong> · DM open.
 </p>
