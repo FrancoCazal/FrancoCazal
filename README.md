@@ -19,10 +19,10 @@
 
 ### 🚀 About Me
 
-- 🔭 Owning systems end-to-end — data model → AWS infra → observability → on-call.
-- ☁️ AWS-native infrastructure with Terraform — production from day one.
+- 🔭 Owning systems end-to-end: data model → AWS infra → observability → on-call.
+- ☁️ AWS-native infrastructure with Terraform, production from day one.
 - 🤖 **Agentic AI workflows** in production: LangGraph state machines, evals, cost discipline.
-- ⚙️ AI-augmented dev — custom agent harness on Claude Code (sub-agents, hooks, MCP, skills).
+- ⚙️ AI-augmented dev: custom agent harness on Claude Code (sub-agents, hooks, MCP, skills).
 - 🎬 Outside coding: music · philosophy · psychology.
 
 ---
@@ -60,7 +60,7 @@
 **Tools**
 
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
