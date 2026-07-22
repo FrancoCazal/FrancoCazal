@@ -80,7 +80,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoCazal&theme=tokyonight&hide_border=true&card_width=420" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=FrancoCazal&theme=tokyonight&hide_border=true&card_width=420" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCazal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320" />
 </p>
 
