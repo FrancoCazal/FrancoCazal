@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Franco+%F0%9F%91%8B;Backend+Developer+%26+AI+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Franco+%F0%9F%91%8B;AI+Engineer+%C2%B7+Agentic+Systems+%26+RAG" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>I design and ship scalable, production-grade systems on AWS.</strong><br>
-  Backend, agentic AI workflows, and a custom agent harness for AI-augmented dev.
+  <strong>Co-founder & AI Engineer · agentic systems & RAG in production on AWS.</strong><br>
+  Multi-tenant SaaS backends, LangGraph agents, and a custom agent harness for AI-augmented dev.
 </p>
 
 <p align="center">📍 Lambaré, Paraguay · remote-friendly</p>
