@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>AI & ML Engineer · agentic systems, RAG & ML in production on AWS.</strong><br>
+  <strong>AI & ML Engineer · applied AI: agentic systems & RAG in production on AWS.</strong><br>
   Multi-tenant SaaS backends, LangGraph agents, and a custom agent harness for AI-augmented dev.
 </p>
 
