@@ -59,7 +59,7 @@
 - 🎯 Focused on AI engineering and ML engineering.
 - ☁️ Going all-in on cloud: about to sit the AWS Solutions Architect Associate exam (SAA-C03).
 - 🧠 Completed the FIUNA Machine Learning & Deep Learning diploma. Final project: [Blindside](https://github.com/FrancoCazal/Blindside), perishable demand forecasting that recovers stockout-censored demand and turns the forecast into an order quantity.
-- 🏆 Recent: 1st place at AI Tinkerers San Lorenzo x FIUNA Deep Dive 2026 with [AgroBuy](https://github.com/FrancoCazal/agrobuy-case-study), and [SilentOps](https://github.com/FrancoCazal/SilentOps) at the AI Tinkerers *Agents, Everywhere* hackathon (Sep 2026).
+- 🏆 Recent: 1st place at AI Tinkerers San Lorenzo x FIUNA Deep Dive 2026 with [AgroBuy](https://github.com/FrancoCazal/AgroBuy), and [SilentOps](https://github.com/FrancoCazal/SilentOps) at the AI Tinkerers *Agents, Everywhere* hackathon (Sep 2026).
 - 🤝 Community: AI Tinkerers San Lorenzo · FIUNA computing club · volunteer at AWS User Group Paraguay.
 
 ---
