@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Franco+%F0%9F%91%8B;AI+Engineer+%C2%B7+Agentic+Systems+%26+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Franco+%F0%9F%91%8B;AI+%26+ML+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Co-founder & AI Engineer · agentic systems & RAG in production on AWS.</strong><br>
+  <strong>AI & ML Engineer · agentic systems, RAG & ML in production on AWS.</strong><br>
   Multi-tenant SaaS backends, LangGraph agents, and a custom agent harness for AI-augmented dev.
 </p>
 
@@ -20,6 +20,7 @@
 ### 🚀 About Me
 
 - 🔭 Owning systems end-to-end: data model → AWS infra → observability → on-call.
+- 🏗️ Co-founded [Focal Point](https://github.com/FrancoCazal/focalpoint-case-study) and led its engineering (2023 to 2026): multi-tenant ERP SaaS with WhatsApp AI agents.
 - ☁️ AWS-native infrastructure with Terraform, production from day one.
 - 🤖 **Agentic AI workflows** in production: LangGraph state machines, evals, cost discipline.
 - ⚙️ AI-augmented dev: custom agent harness on Claude Code (sub-agents, hooks, MCP, skills).
@@ -29,51 +30,37 @@
 
 ### 🛠️ Tech Stack
 
-**Backend**
+**Backend & AI**
 
 ![Python](https://img.shields.io/badge/python-3670A8?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-**Cloud & DevOps**
+**Cloud, Ops & Tooling**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 > **AWS hands-on**: serverless (Lambda + API Gateway), container orchestration (ECS), RDS Postgres, S3, CloudFront, and Bedrock for LLM inference.
 
-**Tools**
-
-![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-
 ---
 
-### 🚧 Currently Building
+### 🚧 Now
 
-- Backend infrastructure for SaaS products.
-- LLM-powered features and agent systems.
-- Cloud-native deployments on AWS.
+- 🎯 Focused on AI engineering and ML engineering.
+- ☁️ Going all-in on cloud: about to sit the AWS Solutions Architect Associate exam (SAA-C03).
+- 🧠 Completed the FIUNA Machine Learning & Deep Learning diploma. Final project: [Blindside](https://github.com/FrancoCazal/Blindside), perishable demand forecasting that recovers stockout-censored demand and turns the forecast into an order quantity.
+- 🏆 Recent: 1st place at AI Tinkerers San Lorenzo x FIUNA Deep Dive 2026 with [AgroBuy](https://github.com/FrancoCazal/agrobuy-case-study), and [SilentOps](https://github.com/FrancoCazal/SilentOps) at the AI Tinkerers *Agents, Everywhere* hackathon (Sep 2026).
+- 🤝 Community: AI Tinkerers San Lorenzo · FIUNA computing club · volunteer at AWS User Group Paraguay.
 
 ---
 
@@ -81,7 +68,6 @@
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=FrancoCazal&theme=tokyonight&hide_border=true&card_width=420" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCazal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320" />
 </p>
 
 ---
