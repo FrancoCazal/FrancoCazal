@@ -7,7 +7,7 @@
   I take applied AI from prototype to production: agents and RAG measured with evals, ML models measured against baselines, and the Python backends and AWS infrastructure they run on.
 </p>
 
-<p align="center">📍 Lambaré, Paraguay · remote-friendly</p>
+<p align="center">📍 Lambaré, Paraguay · GMT-3 · remote</p>
 
 <p align="center">
   <a href="https://francocazal.com">
@@ -19,12 +19,23 @@
 
 ### 🚀 About Me
 
-- 🔭 Owning systems end-to-end: data model → AWS infra → observability → on-call.
-- 🏗️ Co-founded [Focal Point](https://github.com/FrancoCazal/focalpoint-case-study) and led its engineering (2023 to 2026): multi-tenant ERP SaaS with WhatsApp AI agents.
-- ☁️ AWS-native infrastructure with Terraform, production from day one.
-- 🤖 **Agentic AI workflows** in production: LangGraph state machines, evals, cost discipline.
-- ⚙️ AI-augmented dev: custom agent harness on Claude Code (sub-agents, hooks, MCP, skills).
-- 🎬 Outside coding: music · philosophy · psychology.
+**`$ whoami`**
+
+> I'm Franco Cazal, an AI & ML engineer. I build applied AI that holds up in production, and I own it end to end, from the data model and the evals to the deploy. I co-founded [Focal Point](https://github.com/FrancoCazal/focalpoint-case-study) and led its engineering from 2023 to 2026. Outside coding: music · philosophy · psychology.
+
+**`$ stack --by-domain`**
+
+| | What | Proof |
+|---|---|---|
+| **ai** | LangGraph agents, hybrid RAG (pgvector + BM25), golden-set evals, cost-aware model routing (Bedrock and Vertex AI in WhisperDocs) | [Focal Point](https://github.com/FrancoCazal/focalpoint-case-study) · [WhisperDocs](https://github.com/FrancoCazal/WhisperDocs) · [SilentOps](https://github.com/FrancoCazal/SilentOps) |
+| **ml** | scikit-learn, gradient boosting (LightGBM), conformal prediction, rolling-origin backtests with leakage tests | [Blindside](https://github.com/FrancoCazal/Blindside) · [AgroBuy](https://github.com/FrancoCazal/AgroBuy) |
+| **backend** | Python (FastAPI, Django, Celery), PostgreSQL, Redis, schema-per-tenant isolation | [Focal Point](https://github.com/FrancoCazal/focalpoint-case-study) · [WhisperDocs](https://github.com/FrancoCazal/WhisperDocs) · [Urban Attic](https://github.com/FrancoCazal/UrbanAttic) |
+| **cloud** | AWS (EC2, RDS, S3, SES) provisioned with Terraform, Docker, GitHub Actions | [Focal Point](https://github.com/FrancoCazal/focalpoint-case-study) · [WhisperDocs](https://github.com/FrancoCazal/WhisperDocs) · [Urban Attic](https://github.com/FrancoCazal/UrbanAttic) |
+| **front** | React + TypeScript, when the product needs a front | [Focal Point](https://github.com/FrancoCazal/focalpoint-case-study) · [Blindside](https://github.com/FrancoCazal/Blindside) · [Urban Attic](https://github.com/FrancoCazal/UrbanAttic) |
+
+**`$ available`**
+
+> Based in Lambaré, Paraguay (GMT-3), working remote; most of my work is async with US and Spanish-speaking teams. Open to AI & ML, AI backend and cloud engineering roles. English (C2) · Spanish (native).
 
 ---
 
@@ -40,6 +51,11 @@
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+**Frontend**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 **Cloud, Ops & Tooling**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -50,17 +66,26 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
-> **AWS hands-on**: serverless (Lambda + API Gateway), container orchestration (ECS), RDS Postgres, S3, CloudFront, and Bedrock for LLM inference.
+---
+
+### 🧭 How I work
+
+Every feature moves through the same loop: spec first, then code, review and CI. Only green tests deploy; then I measure and start again. Each practice below links to the public artifact that shows it.
+
+- **Spec before code** · SilentOps: the [spec](https://github.com/FrancoCazal/SilentOps/blob/main/SILENTOPS.md), the frozen contracts and the [file-ownership map](https://github.com/FrancoCazal/SilentOps/tree/main/team-docs) four people built against in parallel.
+- **Evals as tests** · WhisperDocs: a 50-query suite, [96% on the last full run](https://github.com/FrancoCazal/WhisperDocs/blob/main/eval/reports/2026-04-28_b2b0899a.md) · SilentOps: [15 golden cases](https://github.com/FrancoCazal/SilentOps/tree/main/packages/loop-core/evals), 5/15 on a live model · Blindside: [leakage tests](https://github.com/FrancoCazal/Blindside/blob/main/tests/test_leakage.py) in CI.
+- **CI and infra as code** · GitHub Actions runs the tests on WhisperDocs, SilentOps, Blindside and Urban Attic; Focal Point's AWS stack is [Terraform modules](https://github.com/FrancoCazal/focalpoint-case-study).
+- **Decisions written down** · WhisperDocs: [four ADRs](https://github.com/FrancoCazal/WhisperDocs/tree/main/docs/adr), from LangGraph to dual-provider routing.
+- **AI-augmented, on my own harness** · Claude Code with my own sub-agents, hooks, MCP servers and skills: the harness these repos were built with.
 
 ---
 
 ### 🚧 Now
 
-- 🎯 Focused on AI engineering and ML engineering.
-- ☁️ Going all-in on cloud: about to sit the AWS Solutions Architect Associate exam (SAA-C03).
-- 🧠 Completed the FIUNA Machine Learning & Deep Learning diploma. Final project: [Blindside](https://github.com/FrancoCazal/Blindside), perishable demand forecasting that recovers stockout-censored demand and turns the forecast into an order quantity.
-- 🏆 Recent: 1st place at AI Tinkerers San Lorenzo x FIUNA Deep Dive 2026 with [AgroBuy](https://github.com/FrancoCazal/AgroBuy), and [SilentOps](https://github.com/FrancoCazal/SilentOps) at the AI Tinkerers *Agents, Everywhere* hackathon (Sep 2026).
-- 🤝 Community: AI Tinkerers San Lorenzo · FIUNA computing club · volunteer at AWS User Group Paraguay.
+- ☁️ Preparing the AWS Solutions Architect Associate (SAA-C03). Cloud Practitioner and AI Practitioner done in 2026.
+- 🧠 Finished the FIUNA Machine Learning & Deep Learning diploma. Capstone: [Blindside](https://github.com/FrancoCazal/Blindside), perishable demand forecasting that recovers stockout-censored demand and turns the forecast into an order quantity.
+- 🏆 Two AI Tinkerers hackathons in 2026: [AgroBuy](https://github.com/FrancoCazal/AgroBuy), 1st place at San Lorenzo x FIUNA Deep Dive (April), and [SilentOps](https://github.com/FrancoCazal/SilentOps) at the *Agents, Everywhere* global hackathon (September).
+- 🤝 Community: AI Tinkerers San Lorenzo · FIUNA computing club · volunteer at AWS User Group Paraguay · attendee at AI Tinkerers Asunción and GDG Asunción.
 
 ---
 
