@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>AI & ML Engineer · applied AI: agentic systems & RAG in production on AWS.</strong><br>
-  Multi-tenant SaaS backends, LangGraph agents, and a custom agent harness for AI-augmented dev.
+  I take applied AI from prototype to production: agents and RAG measured with evals, ML models measured against baselines, and the Python backends and AWS infrastructure they run on.
 </p>
 
 <p align="center">📍 Lambaré, Paraguay · remote-friendly</p>
