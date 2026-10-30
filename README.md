@@ -20,7 +20,7 @@
 ### 🚀 About Me
 
 - 🔭 Owning systems end-to-end: data model → AWS infra → observability → on-call.
-- 🏗️ Co-founded [Focal Point](https://github.com/FrancoCazal/focalpoint-case-study) and led its engineering (2023 to 2026): multi-tenant ERP SaaS with WhatsApp AI agents.
+- 🏗️ Co-founded [Focal Point](https://github.com/FrancoCazal/focalpoint-case-study) and built its backend and AI (2023 to 2026): multi-tenant ERP SaaS with WhatsApp AI agents.
 - ☁️ AWS-native infrastructure with Terraform, production from day one.
 - 🤖 **Agentic AI workflows** in production: LangGraph state machines, evals, cost discipline.
 - ⚙️ AI-augmented dev: custom agent harness on Claude Code (sub-agents, hooks, MCP, skills).
