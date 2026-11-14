@@ -7,7 +7,7 @@
   I take applied AI from prototype to production: agents and RAG measured with evals, ML models measured against baselines, and the Python backends and AWS infrastructure they run on.
 </p>
 
-<p align="center">📍 Lambaré, Paraguay · remote-friendly</p>
+<p align="center">📍 Lambaré, Paraguay · remote</p>
 
 <p align="center">
   <a href="https://francocazal.com">
@@ -20,8 +20,8 @@
 ### 🚀 About Me
 
 - 🔭 Owning systems end-to-end: data model → AWS infra → observability → on-call.
-- 🏗️ Co-founded [Focal Point](https://github.com/FrancoCazal/focalpoint-case-study) and built its backend and AI (2023 to 2026): multi-tenant ERP SaaS with WhatsApp AI agents.
-- ☁️ AWS-native infrastructure with Terraform, production from day one.
+- 🏗️ As founding engineer of [Focal Point](https://github.com/FrancoCazal/focalpoint-case-study), I built its backend and AI (2023 to 2026): multi-tenant ERP SaaS with WhatsApp AI agents.
+- ☁️ AWS infrastructure as code with Terraform.
 - 🤖 **Agentic AI workflows** in production: LangGraph state machines, human checkpoints, per-tenant cost tracking.
 - ⚙️ AI-augmented dev: custom agent harness on Claude Code (sub-agents, hooks, MCP, skills).
 - 🎬 Outside coding: music · philosophy · psychology.
@@ -46,7 +46,7 @@
 - ☁️ AWS Certified Solutions Architect – Associate (Oct 2026).
 - 🧠 Completed the FIUNA Machine Learning & Deep Learning diploma. Final project: [Blindside](https://github.com/FrancoCazal/Blindside), perishable demand forecasting that recovers stockout-censored demand and turns the forecast into an order quantity.
 - 🏆 Recent: 1st place at AI Tinkerers San Lorenzo x FIUNA Deep Dive 2026 with [AgroBuy](https://github.com/FrancoCazal/AgroBuy), and [SilentOps](https://github.com/FrancoCazal/SilentOps) at the AI Tinkerers *Agents, Everywhere* hackathon (Sep 2026).
-- 🤝 Community: AI Tinkerers San Lorenzo · FIUNA computing club · volunteer at AWS User Group Paraguay.
+- 🤝 Community: AI Tinkerers San Lorenzo · FIUNA Programming Club · volunteer at AWS Community Day Paraguay 2026.
 
 ---
 
