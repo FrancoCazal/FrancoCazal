@@ -12,11 +12,11 @@
 ---
 
 ### About
-- AI agents and RAG systems in production: LangGraph, pgvector, evals and human checkpoints.
-- Python backends with Django and FastAPI, and AWS infrastructure as code with Terraform.
-- Freelance software development and IT consulting for clients in Latin America.
-- AWS Certified Solutions Architect – Associate · Diploma in Machine Learning & Deep Learning (FIUNA).
-- Outside coding: music, philosophy and psychology.
+- 🤖 AI agents and RAG systems in production: LangGraph, pgvector, evals and human checkpoints.
+- ☁️ Python backends with Django and FastAPI, and AWS infrastructure as code with Terraform.
+- 🤝 Freelance software development and IT consulting for clients in Latin America.
+- 🎓 AWS Certified Solutions Architect – Associate · Diploma in Machine Learning & Deep Learning (FIUNA).
+- 🎬 Outside coding: music, philosophy and psychology.
 
 ---
 
@@ -28,14 +28,3 @@
 **`cloud/`** &nbsp; ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 **`front/`** &nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-
----
-
-### Projects
-| Project | What it is |
-|---|---|
-| [WhisperDocs](https://github.com/FrancoCazal/WhisperDocs) | Agentic RAG over your own documents: LangGraph, pgvector, hybrid retrieval, an eval suite and an MCP server |
-| [Blindside](https://github.com/FrancoCazal/Blindside) | Perishable demand forecasting that recovers stockout-censored demand, with conformal intervals and leakage tests |
-| [SilentOps](https://github.com/FrancoCazal/SilentOps) | A propose-only operations agent in Slack, built with a team of four at an AI Tinkerers hackathon |
-| [AgroBuy](https://github.com/FrancoCazal/AgroBuy) | AI procurement copilot for agricultural cooperatives · 1st place, AI Tinkerers San Lorenzo x FIUNA Deep Dive 2026 |
-| [UrbanAttic](https://github.com/FrancoCazal/UrbanAttic) | Full-stack e-commerce with Django REST Framework, React and Stripe |
