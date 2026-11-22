@@ -1,6 +1,6 @@
 <h2 align="center"><a href="https://francocazal.com">Franco Cazal</a></h2>
 <p align="center">
-  AI & ML Engineer · Lambaré, Paraguay · remote<br>
+  AI Engineer · Lambaré, Paraguay · remote<br>
   I build AI agents and RAG systems with LangGraph, and the Python backends and AWS infrastructure they run on.
 </p>
 <p align="center">
