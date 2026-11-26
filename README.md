@@ -16,7 +16,7 @@
 - Python backends with Django and FastAPI, and AWS infrastructure as code with Terraform ☁️
 - Freelance software development and IT consulting for clients in Latin America 🤝
 - AWS Certified Solutions Architect – Associate · Diploma in Machine Learning & Deep Learning (FIUNA) 🎓
-- Outside coding: music, philosophy and psychology 🎬
+- Outside coding: music, writing and psychology 🎬
 
 ---
 
